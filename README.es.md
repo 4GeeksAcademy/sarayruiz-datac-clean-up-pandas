@@ -1,5 +1,5 @@
 <!--hide-->
-# Limpieza de datos con Pandas para principiantes
+# Limpieza de datos con la biblioteca "Pandas" para principiantes
 <!--endhide-->
 
 - Comprender y explorar conjuntos de datos reales usando herramientas de Pandas.
